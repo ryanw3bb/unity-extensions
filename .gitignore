@@ -1,0 +1,17 @@
+# osx
+.DS_Store
+profile
+
+# folders
+obj/
+bin/
+Library/
+Temp/
+ProjectSettings/
+UnityPackageManager/
+
+# file extensions
+*.csproj
+*.userprefs
+*.sln
+*.meta
